@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//druid/DruidDemo1.java=UTF-8
+encoding//src/main/java/com/win/dao/IMageDao.java=gbk
+encoding//src/main/java/com/win/dao/impl/MageDao.java=gbk
+encoding//src/main/java/com/win/filter/CharacterEncodingFilter.java=UTF-8
+encoding//src/main/java/com/win/filter/LoginFilter.java=gbk
+encoding//src/main/java/com/win/pojo/MageInfo.java=gbk
+encoding//src/main/java/com/win/servlet/BaseServlet.java=gbk
+encoding//src/main/java/com/win/servlet/ManagerServlet.java=gbk
+encoding//src/main/java/com/win/util/DBHelper.java=UTF-8
+encoding//src/main/java/jdbc.properties=UTF-8
+encoding//src/main/webapp/page/login.jsp=gbk
+encoding//src/main/webapp/page/main.jsp=gbk
+encoding/<project>=GBK
+encoding/src=UTF-8

@@ -1,0 +1,7 @@
+//org.springframework.ide.eclipse.xml.namespaces.default.version.http\://www.alibaba.com/schema/stat=
+//org.springframework.ide.eclipse.xml.namespaces.prefix.http\://www.alibaba.com/schema/stat=stat
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.xml.namespaces.default.version.check.classpath=true
+org.springframework.ide.eclipse.xml.namespaces.enable.project.preferences=false
+org.springframework.ide.eclipse.xml.namespaces.loadNamespaceHandlerFromClasspath=true
+org.springframework.ide.eclipse.xml.namespaces.use.https.for.new.namespace.locations=false
